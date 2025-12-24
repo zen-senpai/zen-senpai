@@ -20,8 +20,19 @@ I'm a passionate **IT Infrastructure Professional** with deep expertise in syste
 ## Analytics & Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zen-senpai&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zen-senpai&layout=compact&theme=radical&hide_border=true" />
+  
+  **📊 GitHub Stats**
+  
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zen-senpai&show_icons=true&theme=radical&hide_border=true&count_private=true&disable_animations=true)](https://github.com/zen-senpai)
+  
+  **🔥 GitHub Streak**
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zen-senpai&theme=radical&hide_border=true&disable_animations=true)](https://git.io/streak-stats)
+  
+  **💻 Most Used Languages**
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=zen-senpai&layout=compact&theme=radical&hide_border=true&disable_animations=true)](https://github.com/zen-senpai)
+  
 </div>
 
 <div align="center">
