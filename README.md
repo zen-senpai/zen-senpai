@@ -21,9 +21,6 @@ I'm a passionate **IT Infrastructure Professional** with deep expertise in syste
 & Statistics
 <div align="center">
 
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=zen-senpai&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs?username=zen-senpai&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
