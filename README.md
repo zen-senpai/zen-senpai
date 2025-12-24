@@ -26,7 +26,6 @@ I'm a passionate **IT Infrastructure Professional** with deep expertise in syste
 
 <div align="center">
 
-  <img src="https://git.io/streak-stats.com/?user=zen-senpai&theme=radical&hide_border=true" />
 
 </div>
   
