@@ -29,13 +29,13 @@ I'm a passionate **IT Infrastructure Professional** with deep expertise in syste
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zen-senpai&theme=radical&hide_border=true" />
+  <img src="https://git.io/streak-stats.com/?user=zen-senpai&theme=radical&hide_border=true" />
 
 </div>
   
   **🔥 GitHub Streak**
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zen-senpai&theme=radical&hide_border=true&disable_animations=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://git.io/streak-stats.com/?user=zen-senpai&theme=radical&hide_border=true&disable_animations=true)](https://git.io/streak-stats)
   
   **💻 Most Used Languages**
   
@@ -43,9 +43,6 @@ I'm a passionate **IT Infrastructure Professional** with deep expertise in syste
   
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zen-senpai&theme=radical&hide_border=true" />
-</div>
 
 ---
 
